@@ -1,128 +1,193 @@
-# Hi there 👋 I'm Triveni Valeti
+# <div align="center"> Senior .NET Full Stack Developer</div>
 
-### Senior .NET Full Stack Developer | Cloud & Microservices Engineer | AI-Driven Enterprise Solutions
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-8-blueviolet?style=for-the-badge&logo=.net" />
-  <img src="https://img.shields.io/badge/C%23-12-purple?style=for-the-badge&logo=csharp" />
-  <img src="https://img.shields.io/badge/Angular-18-red?style=for-the-badge&logo=angular" />
-  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=.NET+Full+Stack+Developer;Cloud+%26+Microservices+Engineer;Azure+%7C+AWS+%7C+Angular+%7C+React;Building+Scalable+Enterprise+Solutions;11%2B+Years+of+Enterprise+Experience" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-Senior .NET Full Stack Developer with 11+ years of experience building scalable enterprise applications across healthcare, banking, airline, retail, and government domains. Passionate about designing high-performance distributed systems using modern .NET technologies, Microservices Architecture, Cloud Platforms, and AI-driven development solutions.
+<img src="https://img.shields.io/badge/.NET-8-blueviolet?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-12-purple?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-18-red?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-Experienced in developing secure RESTful APIs, event-driven systems, real-time dashboards, and enterprise web applications using modern frontend frameworks including Angular and React. Strong expertise in cloud-native development using Microsoft Azure and AWS with deep understanding of scalable architectures, CI/CD automation, and enterprise security standards.
-
-I enjoy solving complex business problems through clean architecture, scalable backend systems, responsive frontend experiences, and intelligent workflow automation.
-
----
-
-# 💻 Tech Stack
-
-## Backend Technologies
-- .NET 8 / .NET 6 / ASP.NET Core Web API
-- ASP.NET MVC / Blazor Server / Web Forms
-- C# / LINQ / Async-Await / TPL / Multithreading
-- Entity Framework Core / Dapper / ADO.NET
-- REST APIs / SOAP / WCF / gRPC
-
-## Frontend Technologies
-- Angular 18 / Angular 16
-- React 18 / Redux Toolkit
-- TypeScript / JavaScript
-- HTML5 / CSS3 / Bootstrap
-- Material UI / Kendo UI / RxJS
-
-## Cloud & DevOps
-- Microsoft Azure
-- AWS Cloud
-- Azure DevOps / Jenkins
-- Docker / Kubernetes
-- Azure API Management
-- CI/CD Pipelines
-
-## Databases
-- SQL Server
-- PostgreSQL
-- Oracle
-- MongoDB
-- DynamoDB
-- Cosmos DB
-
-## Messaging & Event Streaming
-- Apache Kafka
-- RabbitMQ
-- Azure Service Bus
-- Amazon SQS / SNS
-- MSMQ
-
-## Security & Authentication
-- OAuth2
-- JWT
-- OpenID Connect
-- Azure AD / Entra ID
-- AWS Cognito
-- Role-Based Access Control (RBAC)
-
-## AI & Developer Productivity
-- Azure OpenAI
-- GitHub Copilot
-- Cursor AI
-- Claude AI
-- GPT-4
-- Prompt Engineering
+</div>
 
 ---
 
-# 📌 Experience Highlights
+# 👨‍💻 About Me
 
-✅ Designed and developed enterprise-scale Microservices platforms processing high-volume transactions across distributed systems.
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-✅ Built scalable RESTful APIs with secure authentication, caching, rate limiting, and enterprise-grade reliability.
+Senior **.NET Full Stack Developer** with **11+ years** of experience building enterprise-grade applications across healthcare, banking, airline, retail, and government domains.
 
-✅ Developed modern responsive frontend applications using Angular and React improving user experience and operational efficiency.
+Passionate about designing scalable distributed systems using:
 
-✅ Implemented event-driven architectures using Apache Kafka and RabbitMQ enabling scalable asynchronous communication.
+- ⚡ **ASP.NET Core Web API & Microservices**
+- ☁️ **Microsoft Azure & AWS Cloud**
+- 🎨 **Angular & React Frontend Applications**
+- 🔄 **Event-Driven Architectures & Kafka**
+- 🤖 **AI-Powered Development Solutions**
+- 🔐 **Secure Enterprise Integrations**
 
-✅ Built real-time dashboards and streaming solutions using SignalR and Blazor Server.
-
-✅ Optimized SQL Server workloads reducing transaction latency and improving large-scale application performance.
-
-✅ Automated CI/CD pipelines using Azure DevOps, Jenkins, Docker, and Kubernetes accelerating enterprise release cycles.
-
-✅ Integrated AI-powered solutions using Azure OpenAI, GitHub Copilot, Cursor AI, and intelligent document processing workflows.
+I specialize in building highly scalable applications with modern architecture patterns, cloud-native deployments, and intelligent workflow automation.
 
 ---
 
-# 📊 Core Expertise
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## 💻 Backend Technologies
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
+
+## 🎨 Frontend Technologies
+
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap" />
+
+## ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,jenkins,git,github" />
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+
+</div>
+
+---
+
+# 📊 Professional Experience
+
+<div align="center">
+
+| Experience | Domains | Projects |
+|------------|----------|-----------|
+| 11+ Years | Healthcare, Banking, Airline, Government | Enterprise Applications |
+
+</div>
+
+### 🚀 Enterprise Expertise
+
+✅ Built scalable **Microservices Architectures** processing high-volume enterprise transactions.
+
+✅ Developed secure **RESTful APIs** with OAuth2, JWT, API Gateway, caching, and enterprise integrations.
+
+✅ Designed responsive enterprise applications using **Angular 18**, **React 18**, and modern UI frameworks.
+
+✅ Implemented **Apache Kafka**, **RabbitMQ**, and event-driven systems enabling reliable asynchronous communication.
+
+✅ Developed real-time dashboards using **Blazor Server** and **SignalR** supporting enterprise operational workflows.
+
+✅ Optimized enterprise SQL workloads reducing transaction latency and improving large-scale application performance.
+
+✅ Automated CI/CD pipelines using **Azure DevOps**, **Docker**, **Kubernetes**, and **Jenkins**.
+
+✅ Integrated AI-powered development workflows using **Azure OpenAI**, **GitHub Copilot**, **Cursor AI**, and **GPT-4**.
+
+---
+
+# 🧠 Architecture & Engineering Skills
+
+<div align="center">
+
+```mermaid
+graph TD;
+    A[Frontend Applications] --> B[REST APIs]
+    B --> C[Microservices]
+    C --> D[Kafka Event Streaming]
+    C --> E[SQL Server]
+    C --> F[Cloud Infrastructure]
+    F --> G[Azure]
+    F --> H[AWS]
+```
+
+</div>
+
+### 🔥 Core Specializations
 
 - Microservices Architecture
 - Clean Architecture
 - Onion Architecture
 - Event-Driven Systems
+- Distributed Systems
 - Cloud-Native Development
 - Enterprise API Design
-- Distributed Systems
-- Scalable Web Applications
-- Secure Authentication & Authorization
-- AI-Assisted Development
+- Real-Time Applications
+- Authentication & Authorization
 - Performance Optimization
+- AI-Assisted Development
 - Agile Scrum Methodologies
 
 ---
 
-# 🌎 Let's Connect
+# 📈 GitHub Stats
 
-- 💼 LinkedIn:www.linkedin.com/in/trivenivc-2219bb02cc
-- 📧 Email: triveni.vc19@gmail.com
-- 🌐 Portfolio: Your Portfolio URL
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-⭐ Always passionate about building scalable, secure, and modern enterprise solutions with clean architecture and cutting-edge technologies.
+# 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/trivenivc-2219bb02cc">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:triveni.vc19@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+### 📬 Contact Information
+
+📌 **LinkedIn:** www.linkedin.com/in/trivenivc-2219bb02cc  
+📧 **Gmail:** triveni.vc19@gmail.com  
+📱 **Phone:** +1 7042866536  
+💻 **GitHub:** Add Your GitHub Profile URL Here  
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+```yaml
+while(alive) {
+   eat();
+   code();
+   build_scalable_systems();
+   repeat();
+}
+```
+
+---
+
+<div align="center">
+
+### ⭐ Building Scalable Enterprise Solutions With Modern Technologies ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer" />
+
+</div>
