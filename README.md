@@ -168,7 +168,7 @@ graph TD;
 📌 **LinkedIn:** www.linkedin.com/in/trivenivc-2219bb02cc  
 📧 **Gmail:** triveni.vc19@gmail.com  
 📱 **Phone:** +1 7042866536  
-💻 **GitHub:** Add Your GitHub Profile URL Here  
+
 
 </div>
 
