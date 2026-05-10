@@ -1,5 +1,5 @@
 # <div align="center">  Hi, This is Triveni Valeti 👋 
-# <div align="center"> Senior .Net Full Stack Developer
+
 
  </div>
 
