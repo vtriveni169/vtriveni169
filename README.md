@@ -119,8 +119,8 @@ I enjoy solving complex business problems through clean architecture, scalable b
 
 # 🌎 Let's Connect
 
-- 💼 LinkedIn: Your LinkedIn URL
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn:www.linkedin.com/in/trivenivc-2219bb02cc
+- 📧 Email: triveni.vc19@gmail.com
 - 🌐 Portfolio: Your Portfolio URL
 
 ---
