@@ -1,4 +1,6 @@
-# <div align="center"> Hi, This is Triveni Valeti 👋 Senior .Net Full Stack Developer
+# <div align="center">  Hi, This is Triveni Valeti 👋 
+# <div align="center"> Senior .Net Full Stack Developer
+
  </div>
 
 <div align="center">
